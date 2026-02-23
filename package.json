@@ -14,9 +14,10 @@
   },
   "repository": {
     "type": "git"
+
   },
   "keywords": [],
-  "author": "",
+  "author": "Rico Carrio",
   "license": "ISC",
   "bugs": {},
   "dependencies": {
